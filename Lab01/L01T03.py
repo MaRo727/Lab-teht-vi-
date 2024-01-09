@@ -1,0 +1,5 @@
+eka = input("Syötä kokonaisluku ")
+toka = input("Syötä toinen kokonaisluku ")
+ekaMuunnos = int(eka)
+tokaMuunnos = int(toka)
+print("Summa =", ekaMuunnos + tokaMuunnos)

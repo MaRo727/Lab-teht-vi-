@@ -1,0 +1,5 @@
+euro = input("Montako euroa sinulla on? ")
+sentti = input("Montako senttiä sinulla on? ")
+ekaMuunnos = int(euro)
+tokaMuunnos = int(sentti)
+print("Sinulla on:", ekaMuunnos + tokaMuunnos / 100, "€")

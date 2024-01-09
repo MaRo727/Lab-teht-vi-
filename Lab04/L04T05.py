@@ -1,0 +1,5 @@
+etu = input("Etunimesi: ")
+suku = input("Sukunimesi: ")
+etuPituus = len(etu)
+print(etu[0] * etuPituus)
+print(suku[::-1])
